@@ -14,6 +14,7 @@
  */
 package dpfmanager.shell.interfaces.gui.component.global;
 
+import com.sun.javafx.scene.control.skin.PaginationSkin;
 import dpfmanager.shell.core.util.NodeUtil;
 import javafx.beans.binding.Bindings;
 import javafx.collections.ListChangeListener;
@@ -23,8 +24,6 @@ import javafx.scene.control.Label;
 import javafx.scene.control.Pagination;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.StackPane;
-
-import com.sun.javafx.scene.control.skin.PaginationSkin;
 
 /**
  * Created by Adrià Llorens on 06/07/2017.
